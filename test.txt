@@ -1,3 +1,7 @@
 main(){
 	print "hello world";
 }
+
+method(){
+	print "my name is shuanchengli";
+}
